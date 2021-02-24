@@ -1,0 +1,7 @@
+C:\Users\Petr\source\repos\CV1_Pri01\CV1_Pri01\bin\Debug\CV1_Pri01.exe.config
+C:\Users\Petr\source\repos\CV1_Pri01\CV1_Pri01\bin\Debug\CV1_Pri01.exe
+C:\Users\Petr\source\repos\CV1_Pri01\CV1_Pri01\bin\Debug\CV1_Pri01.pdb
+C:\Users\Petr\source\repos\CV1_Pri01\CV1_Pri01\obj\Debug\CV1_Pri01.csprojAssemblyReference.cache
+C:\Users\Petr\source\repos\CV1_Pri01\CV1_Pri01\obj\Debug\CV1_Pri01.csproj.CoreCompileInputs.cache
+C:\Users\Petr\source\repos\CV1_Pri01\CV1_Pri01\obj\Debug\CV1_Pri01.exe
+C:\Users\Petr\source\repos\CV1_Pri01\CV1_Pri01\obj\Debug\CV1_Pri01.pdb
