@@ -1,0 +1,7 @@
+C:\Users\Petr\Documents\GitHub\ICSHP---programy\CV1_Pri02\CV1_Pri02\obj\Debug\CV1_Pri02.csprojAssemblyReference.cache
+C:\Users\Petr\Documents\GitHub\ICSHP---programy\CV1_Pri02\CV1_Pri02\obj\Debug\CV1_Pri02.csproj.CoreCompileInputs.cache
+C:\Users\Petr\Documents\GitHub\ICSHP---programy\CV1_Pri02\CV1_Pri02\bin\Debug\CV1_Pri02.exe.config
+C:\Users\Petr\Documents\GitHub\ICSHP---programy\CV1_Pri02\CV1_Pri02\bin\Debug\CV1_Pri02.exe
+C:\Users\Petr\Documents\GitHub\ICSHP---programy\CV1_Pri02\CV1_Pri02\bin\Debug\CV1_Pri02.pdb
+C:\Users\Petr\Documents\GitHub\ICSHP---programy\CV1_Pri02\CV1_Pri02\obj\Debug\CV1_Pri02.exe
+C:\Users\Petr\Documents\GitHub\ICSHP---programy\CV1_Pri02\CV1_Pri02\obj\Debug\CV1_Pri02.pdb
