@@ -12,40 +12,64 @@ namespace CV1_Pri04
         {
             int randomNumber;
             Random RNG = new Random();
-            randomNumber = RNG.Next(0, 100);    //Náhodné číslo v rozsahu 0 - 100
+            randomNumber = RNG.Next(0, 101);    //Náhodné číslo v rozsahu 0 - 100
 
             Console.WriteLine("Hádání náhodného čísla v rozsahu 0 - 100");
-
+            
             int i = 0;
-            int cislo;
-            while (i < 10)
+            string potvrzeni = "Y";
+
+            while (potvrzeni == "Y")
             {
-                Console.Write("Zadej číslo: ");
-                cislo = Console.Read();
-                Console.ReadKey();
+                randomNumber = RNG.Next(0, 101);
 
-                if (cislo > 100 || cislo < -1)
-                    Console.WriteLine("Zadané číslo je mimo rozsah");
-                else if (cislo > randomNumber)
+                while (i < 10)  //Cyklus pro 10 pokusů hádání čísla
                 {
-                    Console.WriteLine("Zadané číslo je větší než náhodné číslo");
-                    i++;
+                    Console.Write("Zadej číslo: ");
+                    int cislo = Convert.ToInt32(Console.ReadLine());
+
+
+                    if (cislo > 100 || cislo < -1)  //Kontrola zda zadané číslo je v rozsahu 0 - 100
+                        Console.WriteLine("Zadané číslo je mimo rozsah");
+                    if (cislo > randomNumber)
+                    {
+                        Console.WriteLine("Zadané číslo je větší než náhodné číslo");
+                        i++;
+                    }
+                    if (cislo < randomNumber)
+                    {
+                        Console.WriteLine("Zadané číslo je menší než náhodné číslo");
+                        i++;
+                    }
+                    if (cislo == randomNumber)
+                    {
+                        Console.WriteLine("Uhádli jste náhodné číslo: " + randomNumber);
+                        break;
+                    }
+
+
                 }
-                else if (cislo < randomNumber)
+
+                if (i == 10)    //Konec hry
                 {
-                    Console.WriteLine("Zadané číslo je menší než náhodné číslo");
-                    i++;
+                    Console.WriteLine("Prohrál si");
+                    potvrzeni = "N";
+                    Console.ReadKey();
                 }
-                else if (cislo == randomNumber)
+                if(i < 10)  //Nová hra
                 {
-                    Console.WriteLine("Uhádli jste náhodné číslo: " + randomNumber);
-                    break;
+                    Console.Write("Chceš hrát znovu?[Y/N]: ");
+                    potvrzeni = Console.ReadLine();
+                    if (potvrzeni == "Y" || potvrzeni == "y")
+                    {
+                        potvrzeni = "Y";
+                        Console.WriteLine();
+                        Console.WriteLine("Nová hra");
+                        i = 0;
+                    }
                 }
-                Console.WriteLine();
+                
             }
-
-            if (i == 10)
-                Console.WriteLine("Prohrál si");
 
 
         }
