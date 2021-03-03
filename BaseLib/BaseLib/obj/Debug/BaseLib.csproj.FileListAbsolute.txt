@@ -1,0 +1,12 @@
+C:\Downloads\BaseLib\BaseLib\bin\Debug\BaseLib.dll
+C:\Downloads\BaseLib\BaseLib\bin\Debug\BaseLib.pdb
+C:\Downloads\BaseLib\BaseLib\obj\Debug\BaseLib.csprojAssemblyReference.cache
+C:\Downloads\BaseLib\BaseLib\obj\Debug\BaseLib.csproj.CoreCompileInputs.cache
+C:\Downloads\BaseLib\BaseLib\obj\Debug\BaseLib.dll
+C:\Downloads\BaseLib\BaseLib\obj\Debug\BaseLib.pdb
+C:\Dokumenty\Vysoká škola\3. ročník\2. Semestr(letní)\ICSHP - C#\Programy\BaseLib\BaseLib\bin\Debug\BaseLib.dll
+C:\Dokumenty\Vysoká škola\3. ročník\2. Semestr(letní)\ICSHP - C#\Programy\BaseLib\BaseLib\bin\Debug\BaseLib.pdb
+C:\Dokumenty\Vysoká škola\3. ročník\2. Semestr(letní)\ICSHP - C#\Programy\BaseLib\BaseLib\obj\Debug\BaseLib.csprojAssemblyReference.cache
+C:\Dokumenty\Vysoká škola\3. ročník\2. Semestr(letní)\ICSHP - C#\Programy\BaseLib\BaseLib\obj\Debug\BaseLib.csproj.CoreCompileInputs.cache
+C:\Dokumenty\Vysoká škola\3. ročník\2. Semestr(letní)\ICSHP - C#\Programy\BaseLib\BaseLib\obj\Debug\BaseLib.dll
+C:\Dokumenty\Vysoká škola\3. ročník\2. Semestr(letní)\ICSHP - C#\Programy\BaseLib\BaseLib\obj\Debug\BaseLib.pdb

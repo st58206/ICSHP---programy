@@ -1,0 +1,20 @@
+C:\Downloads\BaseLib\CV02_Pri02\bin\Debug\CV02_Pri02.exe.config
+C:\Downloads\BaseLib\CV02_Pri02\bin\Debug\CV02_Pri02.exe
+C:\Downloads\BaseLib\CV02_Pri02\bin\Debug\CV02_Pri02.pdb
+C:\Downloads\BaseLib\CV02_Pri02\bin\Debug\BaseLib.dll
+C:\Downloads\BaseLib\CV02_Pri02\bin\Debug\BaseLib.pdb
+C:\Downloads\BaseLib\CV02_Pri02\obj\Debug\CV02_Pri02.csprojAssemblyReference.cache
+C:\Downloads\BaseLib\CV02_Pri02\obj\Debug\CV02_Pri02.csproj.CoreCompileInputs.cache
+C:\Downloads\BaseLib\CV02_Pri02\obj\Debug\CV02_Pri02.csproj.CopyComplete
+C:\Downloads\BaseLib\CV02_Pri02\obj\Debug\CV02_Pri02.exe
+C:\Downloads\BaseLib\CV02_Pri02\obj\Debug\CV02_Pri02.pdb
+C:\Dokumenty\Vysoká škola\3. ročník\2. Semestr(letní)\ICSHP - C#\Programy\BaseLib\CV02_Pri02\bin\Debug\CV02_Pri02.exe.config
+C:\Dokumenty\Vysoká škola\3. ročník\2. Semestr(letní)\ICSHP - C#\Programy\BaseLib\CV02_Pri02\bin\Debug\CV02_Pri02.exe
+C:\Dokumenty\Vysoká škola\3. ročník\2. Semestr(letní)\ICSHP - C#\Programy\BaseLib\CV02_Pri02\bin\Debug\CV02_Pri02.pdb
+C:\Dokumenty\Vysoká škola\3. ročník\2. Semestr(letní)\ICSHP - C#\Programy\BaseLib\CV02_Pri02\bin\Debug\BaseLib.dll
+C:\Dokumenty\Vysoká škola\3. ročník\2. Semestr(letní)\ICSHP - C#\Programy\BaseLib\CV02_Pri02\bin\Debug\BaseLib.pdb
+C:\Dokumenty\Vysoká škola\3. ročník\2. Semestr(letní)\ICSHP - C#\Programy\BaseLib\CV02_Pri02\obj\Debug\CV02_Pri02.csprojAssemblyReference.cache
+C:\Dokumenty\Vysoká škola\3. ročník\2. Semestr(letní)\ICSHP - C#\Programy\BaseLib\CV02_Pri02\obj\Debug\CV02_Pri02.csproj.CoreCompileInputs.cache
+C:\Dokumenty\Vysoká škola\3. ročník\2. Semestr(letní)\ICSHP - C#\Programy\BaseLib\CV02_Pri02\obj\Debug\CV02_Pri02.csproj.CopyComplete
+C:\Dokumenty\Vysoká škola\3. ročník\2. Semestr(letní)\ICSHP - C#\Programy\BaseLib\CV02_Pri02\obj\Debug\CV02_Pri02.exe
+C:\Dokumenty\Vysoká škola\3. ročník\2. Semestr(letní)\ICSHP - C#\Programy\BaseLib\CV02_Pri02\obj\Debug\CV02_Pri02.pdb
