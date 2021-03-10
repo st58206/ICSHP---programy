@@ -1,0 +1,10 @@
+C:\Dokumenty\Vysoká škola\3. ročník\2. Semestr(letní)\ICSHP - C#\Programy\CV03\CV03\bin\Debug\CV03.exe.config
+C:\Dokumenty\Vysoká škola\3. ročník\2. Semestr(letní)\ICSHP - C#\Programy\CV03\CV03\bin\Debug\CV03.exe
+C:\Dokumenty\Vysoká škola\3. ročník\2. Semestr(letní)\ICSHP - C#\Programy\CV03\CV03\bin\Debug\CV03.pdb
+C:\Dokumenty\Vysoká škola\3. ročník\2. Semestr(letní)\ICSHP - C#\Programy\CV03\CV03\bin\Debug\BaseLib.dll
+C:\Dokumenty\Vysoká škola\3. ročník\2. Semestr(letní)\ICSHP - C#\Programy\CV03\CV03\bin\Debug\BaseLib.pdb
+C:\Dokumenty\Vysoká škola\3. ročník\2. Semestr(letní)\ICSHP - C#\Programy\CV03\CV03\obj\Debug\CV03.csprojAssemblyReference.cache
+C:\Dokumenty\Vysoká škola\3. ročník\2. Semestr(letní)\ICSHP - C#\Programy\CV03\CV03\obj\Debug\CV03.csproj.CoreCompileInputs.cache
+C:\Dokumenty\Vysoká škola\3. ročník\2. Semestr(letní)\ICSHP - C#\Programy\CV03\CV03\obj\Debug\CV03.csproj.CopyComplete
+C:\Dokumenty\Vysoká škola\3. ročník\2. Semestr(letní)\ICSHP - C#\Programy\CV03\CV03\obj\Debug\CV03.exe
+C:\Dokumenty\Vysoká škola\3. ročník\2. Semestr(letní)\ICSHP - C#\Programy\CV03\CV03\obj\Debug\CV03.pdb
