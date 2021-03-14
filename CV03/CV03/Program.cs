@@ -70,15 +70,7 @@ namespace CV03
         private static int CompareName(Student student, Student anotherStudent)
         {
             //Resharper disable PossibleNullReferenceException
-            int prom = 0;
-            for (int k = 0; k < student.Jmeno.Length - 1; k++)
-            {
-                if (student.Jmeno[k] > anotherStudent.Jmeno[k])
-                    prom = 1;
-            }
-            if(prom > 0)
-            return 2;
-            return 1;
+            return String.Compare(student.Jmeno, anotherStudent.Jmeno);
             //Resharper enable PossibleNullReferenceException
         }
 
@@ -89,7 +81,7 @@ namespace CV03
             {
                 for (int j = 0; j < students.Length - 1; j++)
                 {
-                    if (comparator(students[j], students[j + 1]) > 1)
+                    if (comparator(students[j], students[j + 1]) > 0)
                     {
                         Student pom = students[j];
                         students[j] = students[j + 1];
@@ -113,7 +105,7 @@ namespace CV03
             {
                 for (int j = 0; j < students.Length - 1; j++)
                 {
-                    if (comparator(students[j], students[j + 1]) > 1)
+                    if (comparator(students[j], students[j + 1]) > 0)
                     {
                         Student pom = students[j];
                         students[j] = students[j + 1];
