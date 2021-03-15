@@ -1,0 +1,15 @@
+C:\Dokumenty\Vysoká škola\3. ročník\2. Semestr(letní)\ICSHP - C#\Programy\CV04\bin\Debug\netcoreapp3.1\CV04.exe
+C:\Dokumenty\Vysoká škola\3. ročník\2. Semestr(letní)\ICSHP - C#\Programy\CV04\bin\Debug\netcoreapp3.1\CV04.deps.json
+C:\Dokumenty\Vysoká škola\3. ročník\2. Semestr(letní)\ICSHP - C#\Programy\CV04\bin\Debug\netcoreapp3.1\CV04.runtimeconfig.json
+C:\Dokumenty\Vysoká škola\3. ročník\2. Semestr(letní)\ICSHP - C#\Programy\CV04\bin\Debug\netcoreapp3.1\CV04.runtimeconfig.dev.json
+C:\Dokumenty\Vysoká škola\3. ročník\2. Semestr(letní)\ICSHP - C#\Programy\CV04\bin\Debug\netcoreapp3.1\CV04.dll
+C:\Dokumenty\Vysoká škola\3. ročník\2. Semestr(letní)\ICSHP - C#\Programy\CV04\bin\Debug\netcoreapp3.1\CV04.pdb
+C:\Dokumenty\Vysoká škola\3. ročník\2. Semestr(letní)\ICSHP - C#\Programy\CV04\obj\Debug\netcoreapp3.1\CV04.csprojAssemblyReference.cache
+C:\Dokumenty\Vysoká škola\3. ročník\2. Semestr(letní)\ICSHP - C#\Programy\CV04\obj\Debug\netcoreapp3.1\CV04.Form1.resources
+C:\Dokumenty\Vysoká škola\3. ročník\2. Semestr(letní)\ICSHP - C#\Programy\CV04\obj\Debug\netcoreapp3.1\CV04.csproj.GenerateResource.cache
+C:\Dokumenty\Vysoká škola\3. ročník\2. Semestr(letní)\ICSHP - C#\Programy\CV04\obj\Debug\netcoreapp3.1\CV04.AssemblyInfoInputs.cache
+C:\Dokumenty\Vysoká škola\3. ročník\2. Semestr(letní)\ICSHP - C#\Programy\CV04\obj\Debug\netcoreapp3.1\CV04.AssemblyInfo.cs
+C:\Dokumenty\Vysoká škola\3. ročník\2. Semestr(letní)\ICSHP - C#\Programy\CV04\obj\Debug\netcoreapp3.1\CV04.csproj.CoreCompileInputs.cache
+C:\Dokumenty\Vysoká škola\3. ročník\2. Semestr(letní)\ICSHP - C#\Programy\CV04\obj\Debug\netcoreapp3.1\CV04.dll
+C:\Dokumenty\Vysoká škola\3. ročník\2. Semestr(letní)\ICSHP - C#\Programy\CV04\obj\Debug\netcoreapp3.1\CV04.pdb
+C:\Dokumenty\Vysoká škola\3. ročník\2. Semestr(letní)\ICSHP - C#\Programy\CV04\obj\Debug\netcoreapp3.1\CV04.genruntimeconfig.cache
