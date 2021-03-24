@@ -1,0 +1,17 @@
+C:\Dokumenty\Vysoká škola\3. ročník\2. Semestr(letní)\ICSHP - C#\Programy\CV05\bin\Debug\netcoreapp3.1\CV05.exe
+C:\Dokumenty\Vysoká škola\3. ročník\2. Semestr(letní)\ICSHP - C#\Programy\CV05\bin\Debug\netcoreapp3.1\CV05.deps.json
+C:\Dokumenty\Vysoká škola\3. ročník\2. Semestr(letní)\ICSHP - C#\Programy\CV05\bin\Debug\netcoreapp3.1\CV05.runtimeconfig.json
+C:\Dokumenty\Vysoká škola\3. ročník\2. Semestr(letní)\ICSHP - C#\Programy\CV05\bin\Debug\netcoreapp3.1\CV05.runtimeconfig.dev.json
+C:\Dokumenty\Vysoká škola\3. ročník\2. Semestr(letní)\ICSHP - C#\Programy\CV05\bin\Debug\netcoreapp3.1\CV05.dll
+C:\Dokumenty\Vysoká škola\3. ročník\2. Semestr(letní)\ICSHP - C#\Programy\CV05\bin\Debug\netcoreapp3.1\CV05.pdb
+C:\Dokumenty\Vysoká škola\3. ročník\2. Semestr(letní)\ICSHP - C#\Programy\CV05\obj\Debug\netcoreapp3.1\CV05.csprojAssemblyReference.cache
+C:\Dokumenty\Vysoká škola\3. ročník\2. Semestr(letní)\ICSHP - C#\Programy\CV05\obj\Debug\netcoreapp3.1\CV05.Form1.resources
+C:\Dokumenty\Vysoká škola\3. ročník\2. Semestr(letní)\ICSHP - C#\Programy\CV05\obj\Debug\netcoreapp3.1\CV05.csproj.GenerateResource.cache
+C:\Dokumenty\Vysoká škola\3. ročník\2. Semestr(letní)\ICSHP - C#\Programy\CV05\obj\Debug\netcoreapp3.1\CV05.AssemblyInfoInputs.cache
+C:\Dokumenty\Vysoká škola\3. ročník\2. Semestr(letní)\ICSHP - C#\Programy\CV05\obj\Debug\netcoreapp3.1\CV05.AssemblyInfo.cs
+C:\Dokumenty\Vysoká škola\3. ročník\2. Semestr(letní)\ICSHP - C#\Programy\CV05\obj\Debug\netcoreapp3.1\CV05.csproj.CoreCompileInputs.cache
+C:\Dokumenty\Vysoká škola\3. ročník\2. Semestr(letní)\ICSHP - C#\Programy\CV05\obj\Debug\netcoreapp3.1\CV05.dll
+C:\Dokumenty\Vysoká škola\3. ročník\2. Semestr(letní)\ICSHP - C#\Programy\CV05\obj\Debug\netcoreapp3.1\CV05.pdb
+C:\Dokumenty\Vysoká škola\3. ročník\2. Semestr(letní)\ICSHP - C#\Programy\CV05\obj\Debug\netcoreapp3.1\CV05.genruntimeconfig.cache
+C:\Dokumenty\Vysoká škola\3. ročník\2. Semestr(letní)\ICSHP - C#\Programy\CV05\obj\Debug\netcoreapp3.1\CV05.Form2.resources
+C:\Dokumenty\Vysoká škola\3. ročník\2. Semestr(letní)\ICSHP - C#\Programy\CV05\obj\Debug\netcoreapp3.1\CV05.Form3.resources
