@@ -10,6 +10,8 @@ namespace CV05
 {
     public partial class Form2 : Form
     {
+        public Hrac Hrac { get; set; }
+
         public Form2()
         {
             InitializeComponent();
@@ -30,17 +32,24 @@ namespace CV05
 
         }
 
+        //Tlačítko OK
         private void button1_Click(object sender, EventArgs e)
         {
-            Hrac hrac = new Hrac();
-            hrac.Jmeno = textBox1.Text;
-            //hrac.Klub = comboBox1.SelectedIndex
-            hrac.GolPocet = Convert.ToInt32(textBox2.Text);
+            if (textBox1.Text != null && textBox2.Text != null && ((FotbalovyKlub)comboBox1.SelectedItem) != 0)
+            {
+                Hrac.Jmeno = textBox1.Text;
+                Hrac.Klub = (FotbalovyKlub)comboBox1.SelectedItem;
+                Hrac.GolPocet = Convert.ToInt32(textBox2.Text);
+                DialogResult = DialogResult.OK;
+            }
+            
             this.Close();
         }
 
+        //Tlačítko Zrušit
         private void button2_Click(object sender, EventArgs e)
         {
+            DialogResult = DialogResult.Cancel;
             this.Close();
         }
 

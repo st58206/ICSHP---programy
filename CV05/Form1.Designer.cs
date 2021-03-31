@@ -56,19 +56,23 @@ namespace CV05
             this.listView1.TabIndex = 0;
             this.listView1.UseCompatibleStateImageBehavior = false;
             this.listView1.View = System.Windows.Forms.View.Details;
+            this.listView1.SelectedIndexChanged += new System.EventHandler(this.listView1_SelectedIndexChanged);
             // 
             // columnHeader1
             // 
+            this.columnHeader1.Name = "columnHeader1";
             this.columnHeader1.Text = "Jméno";
             this.columnHeader1.Width = 100;
             // 
             // columnHeader2
             // 
+            this.columnHeader2.Name = "columnHeader2";
             this.columnHeader2.Text = "Klub";
             this.columnHeader2.Width = 100;
             // 
             // columnHeader3
             // 
+            this.columnHeader3.Name = "columnHeader3";
             this.columnHeader3.Text = "Góly";
             // 
             // button1
